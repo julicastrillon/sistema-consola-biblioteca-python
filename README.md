@@ -1,0 +1,1 @@
+Algunas clases están comentadas ya que eran parte de un primer intento de hacer la tarea sin ninguna ayuda. Y al trabarme con algunas cositas miré la solución de digital-house content y entendí que la estaba complicando mucho de más y opté por ir por el mismo camino que la solución propuesta.
